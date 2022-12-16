@@ -42,9 +42,9 @@ const Project = () => {
     },
     {
       id: 6,
-      title: "Weather App React",
-      github: "https://github.com/aayush-004v/weather-app-react",
-      img: "/assets/weather-app.png",
+      title: "Sathish Portfolio",
+      github: "https://github.com/sathish005005/sathish_portfolio.git",
+      img: "/assets/portfolio.jpeg",
       live: "https://weather-app-react-aayush.vercel.app/",
     },
   ];

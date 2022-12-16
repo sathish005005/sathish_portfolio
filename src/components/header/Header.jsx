@@ -14,7 +14,7 @@ const Header = () => {
         <div className="header-title">
           <h5>Hello I'm</h5>
           <h1>Sathish</h1>
-          <small>Frontend Developer</small>
+          <small>Fullstack Developer</small>
         </div>
         <div className="header-buttons">
           <a download="" href={CV} target="_blank">
