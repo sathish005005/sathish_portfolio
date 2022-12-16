@@ -45,7 +45,7 @@ const Project = () => {
       title: "Sathish Portfolio",
       github: "https://github.com/sathish005005/sathish_portfolio.git",
       img: "/assets/portfolio.jpeg",
-      live: "https://weather-app-react-aayush.vercel.app/",
+      live: "https://reliable-longma-4354a4.netlify.app/",
     },
   ];
 

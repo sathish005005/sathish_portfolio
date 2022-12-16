@@ -5,7 +5,7 @@ import { HiChevronDoubleDown } from "react-icons/hi";
 import Button from "../shared/Button";
 import { ButtonOutline } from "../shared/Button";
 
-import CV from "../../assets/Resume.pdf";
+import CV from "../../assets/Resume(sathish)N.pdf";
 
 const Header = () => {
   return (
